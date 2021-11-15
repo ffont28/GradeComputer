@@ -3,6 +3,7 @@ import "fmt"
 func main() {
   var max int
   fmt.Println("-------------")
+  fmt.Println("Version PC_1.1.1")
   fmt.Println("No copyright claimed by the author ffont28. For reports and/or suggestions contact on telegram @ffontana")
   fmt.Println("----")
   fmt.Println("Benvenuto nel programma di calcolo di voto in proporzione.")
