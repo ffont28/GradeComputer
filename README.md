@@ -13,9 +13,9 @@ By clicking on the _.exe_ file you'll se the shell like the image below. So you 
 > 
 ![Terza schermata](https://user-images.githubusercontent.com/72185312/141819769-b49e5bd8-5b0f-46db-a000-98ebca6e2353.jpg)
 >
->So the final evaluation is ```8.97``` which is boxed in green. Note that the blue box is due to an evaluation criterion that was >asked, decreasing the normal score by 0.5.
+>So the final evaluation is ```8.97``` which is boxed in green. Note that the blue box is due to an evaluation criterion that was asked, decreasing the normal score by 0.5.
 >
 ![Quarta schermata](https://user-images.githubusercontent.com/72185312/141820160-938bb1f8-a45f-474a-9339-020a59f9094f.jpg)
 >
->You can enter an unlimited number of values to be calculated. To terminate the program, click on the red X which will close the >terminal
+>You can enter an unlimited number of values to be calculated. To terminate the program, click on the red X which will close the terminal
 >
