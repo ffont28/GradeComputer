@@ -9,7 +9,7 @@ By clicking on the _.exe_ file you'll se the shell like the image below. So you 
 > 
 ![Seconda schermata](https://user-images.githubusercontent.com/72185312/141819510-5e813162-970d-4353-ac1f-4ac34a7d201d.jpg)
 > 
-> in this example, the student got ```70```/78
+> in this example, the student got ```70```/78 After typing 70, hit enter.
 > 
 ![Terza schermata](https://user-images.githubusercontent.com/72185312/141819769-b49e5bd8-5b0f-46db-a000-98ebca6e2353.jpg)
 >
